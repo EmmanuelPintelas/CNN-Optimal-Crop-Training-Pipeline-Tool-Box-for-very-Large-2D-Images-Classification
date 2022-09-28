@@ -5,10 +5,10 @@
 In this project, we mainly provide 4 training-optimization pipelines for CNN models
 emphasizing on very large images, but it can be used as a general tool.
 
-The first one is a traditional training pipeline  _Train Lopp_, which iteratively
+The first one is a traditional training pipeline  _Train Loop_, which iteratively
 trains and save the best validated model.
 
-The second one is  _Train Lopp_Augments, which automatically activates random train augmentations
+The second one is  _Train Loop Augments, which automatically activates random train augmentations
 only when the training accuracy becomes too high, in order to add regularlization effect during training to avoid overfitting 
 and also boost even more the validation performance.
 
