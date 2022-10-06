@@ -1,4 +1,4 @@
-# CNN-Training-Pipeline-Tool-Box-for-very-Large-2D-Images-Classification
+# CNN-Best-Crop-Training-Pipeline-Tool-Box-for-very-Large-2D-Images-Classification
 
 Training a CNN model with very large images (e.g. 100k x 100k x 4) is impossible even in supercomputers.
 The naive approach is just to resize the large image into a viable size like 1000x1000 but then most of the important information will have lost.
