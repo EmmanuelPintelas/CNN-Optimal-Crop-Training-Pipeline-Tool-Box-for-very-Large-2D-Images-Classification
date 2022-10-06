@@ -3,7 +3,7 @@
 Training a CNN model with very large images (e.g. 100k x 100k x 4) is impossible even in supercomputers.
 The naive approach is just to resize the large image into a viable size like 1000x1000 but then most of the important information will have lost.
 Thus, in this project, we mainly provide a _best-crop_ training pipeline for CNN in large image  classification.
-More specifically, based on our hand-crafted code we detect the most informative sub-region of the large image and use this for training.
+More specifically, based on our hand-crafted code we detect the most informative sub-region (crop/tile) of the large image and use this for training.
 The size of the crop/tile is viable for training a cnn model, e.g. 1000x1000, while the important information have NOT lost for feeding into the CNN.
 
 
