@@ -18,3 +18,9 @@ only when the training accuracy becomes too high, in order to add regularlizatio
 and also boost even more the validation performance.
 
 
+
+A full case-study examble which i implemented and i have it available at:
+https://www.kaggle.com/code/manolispintelas/trainingpipeline
+
+
+
