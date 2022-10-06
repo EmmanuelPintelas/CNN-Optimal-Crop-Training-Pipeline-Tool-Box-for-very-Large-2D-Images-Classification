@@ -20,7 +20,14 @@ and also boost even more the validation performance.
 
 
 A full case-study examble which i implemented and i have it available at:
-https://www.kaggle.com/code/manolispintelas/trainingpipeline
+Training: https://www.kaggle.com/code/manolispintelas/mayotrainining?scriptVersionId=107344715
+Prediction: https://www.kaggle.com/code/manolispintelas/mayoprediction/notebook
+
+This was part of my partitipation in Kaggle's Competition Mayo Clinic - STRIP AI
+With the crop-train solution, we managed to end up in the top rank places. 
+_But sadly due to late submission our final solution have not counted. It was counted instead,
+a naive quick apply just before we come up with the sol proposed in this repository or the link above._
+
 
 
 
